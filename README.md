@@ -14,32 +14,39 @@
 
 <h2>🥪 Languages and tools</h2>
 
+Programming
+- Node.js / JavaScript
+- Python
+
+Front End
 - React, Next
 - Vue, Nuxt
 
-
+Back End
 - Express
 - Handlebars
 - Shopify Liquid
+- GraphQL
 
-
+CSS
 - W3CSS
 - Tailwind
 - Material Design
 
-
+Cloud Platforms
 - Amazon Web Services - And the AWS CDK
 - Google Cloud
 - Google Firebase
 
-
+Products
 - Managed Databases
 - Managed Storage
 - Cloud Functions
 
-
+Databases
 - SQL, NoSQL Databases
+- Content Management Systems
 
-
+Web Platforms
 - Shopify
 - Wordpress
