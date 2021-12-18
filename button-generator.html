@@ -17,14 +17,14 @@
 <body>
     <script defer>
             const canvas = document.createElement('canvas');
-            canvas.width = 128;
+            canvas.width = 196;
             canvas.height = 36;
 
             const ctx = canvas.getContext('2d');
 
             ctx.fillStyle = 'green';
             ctx.beginPath()
-            ctx.roundRect(0, 0, 128, 36, [5]);
+            ctx.roundRect(0, 0, 196, 36, [5]);
             ctx.fill();
 
             ctx.fillStyle = 'white';
@@ -36,7 +36,7 @@
 
             ctx.font = '16px sans-serif';
             ctx.textAlign = "center";
-            ctx.fillText("CODEPEN", 64, 24);
+            ctx.fillText("CAINEANDREBEKAH", 98, 24);
 
             document.body.appendChild(canvas);
     </script>
