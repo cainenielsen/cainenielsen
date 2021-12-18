@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<head>
+    <script src="https://kit.fontawesome.com/6564cd73e2.js" crossorigin="anonymous"></script>
+    <style>
+        body {
+            background-color: #22272e;
+        }
+
+        canvas {
+            image-rendering: pixelated;
+            font-family: 'Font Awesome 5 Free';
+        }
+    </style>
+</head>
+
+<body>
+    <script defer>
+            const canvas = document.createElement('canvas');
+            canvas.width = 128;
+            canvas.height = 36;
+
+            const ctx = canvas.getContext('2d');
+
+            ctx.fillStyle = 'green';
+            ctx.beginPath()
+            ctx.roundRect(0, 0, 128, 36, [5]);
+            ctx.fill();
+
+            ctx.fillStyle = 'white';
+
+            // document.fonts.ready.then(e => {
+            //     ctx.font = '16px Font Awesome 5 Free';
+            //     setTimeout(e => ctx.fillText("\uf02d", 0, 24), 1000);
+            // });
+
+            ctx.font = '16px sans-serif';
+            ctx.textAlign = "center";
+            ctx.fillText("PORTFOLIO", 64, 24);
+
+            document.body.appendChild(canvas);
+    </script>
+</body>
