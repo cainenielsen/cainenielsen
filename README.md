@@ -10,7 +10,12 @@
 
 <h2>🌯 My favorite projects</h2>
 
+Check out my portfolio
+https://resume.cainenielsen.com/portfolio
+
 <h2>🌮 About me</h2>
+
+I am an engineer with 3+ years of working technical & administrative experience , and an even longer history in supporting both internal corporate teams as well as enterprise-level SaaS clientele with web, desktop native, and server-side software applications. I have experience managing the technical operations of small to medium businesses and administrating both hardware and software workstations across large teams. I crave business data, love to explore business applications, and have excellent attention to detail, which in my case is not a soft skill. I like to build processes, document them, and maintain them. I will automate your workflow, and yes, I have turned it off and back on again. Thank you.
 
 <h2>🥪 Languages and tools</h2>
 
