@@ -1,57 +1,63 @@
 <h1 align="center">
-  Hi there, I'm Caine Nielsen 🥑
+  Hi there, I'm Caine Nielsen 👋
 </h1>
-<p align="center">A software engineer with a passion for the web, a team player attitude, and a desire to build cool stuff.</p>
+<p align="center">A full-stack software engineer with a passion for clean code, developer productivity, and building cool stuff.</p>
 <br />
 <p align="center">
-  <a href="https://cainenielsen.com"><img src="https://cainenielsen.github.io/cainenielsen/portfolio.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://codepen.io/cainenielsen"><img src="https://cainenielsen.github.io/cainenielsen/codepen.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://caineandrebekah.com"><img src="https://cainenielsen.github.io/cainenielsen/caineandrebekah.png" /></a>
+  <a href="https://cainenielsen.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/cainenielsen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <h2>🌯 My favorite projects</h2>
 
-Check out my portfolio
-https://resume.cainenielsen.com/portfolio
+Check out my work at https://cainenielsen.com
 
 <h2>🌮 About me</h2>
 
-I am an engineer with 3+ years of working technical & administrative experience , and an even longer history in supporting both internal corporate teams as well as enterprise-level SaaS clientele with web, desktop native, and server-side software applications. I have experience managing the technical operations of small to medium businesses and administrating both hardware and software workstations across large teams. I crave business data, love to explore business applications, and have excellent attention to detail, which in my case is not a soft skill. I like to build processes, document them, and maintain them. I will automate your workflow, and yes, I have turned it off and back on again. Thank you.
+I am a fun and hard working software engineer with lots of passion. I love to code and build cool stuff. I have a drive to improve developer productivity, a patience for writing clean, reusable code, and lots of experience with web technologies. I work great with others and love to collaborate and pair-program. I am always learning and moving forward.
 
 <h2>🥪 Languages and tools</h2>
 
 Programming
-- Node.js / JavaScript
-- Python
+
+- Golang
+- JavaScript + TypeScript (Full-Stack)
+- Python, Flask, Pandas
 
 Front End
+
 - React, Next
 - Vue, Nuxt
 
 Back End
-- Express
-- Handlebars
-- Shopify Liquid
-- GraphQL
 
-CSS
-- W3CSS
-- Tailwind
-- Material Design
+- Node.js / Express
+- GraphQL, gRPC, Websockets
+- Shopify Liquid
 
 Cloud Platforms
-- Amazon Web Services - And the AWS CDK
-- Google Cloud
+
+- Amazon Web Services (AWS)
+- Google Cloud Platform (GCP)
 - Google Firebase
 
-Products
-- Managed Databases
-- Managed Storage
-- Cloud Functions
+Infrastructure & DevOps
+
+- IaC: Terraform, AWS CDK
+- CI/CD: GitHub Actions, Jenkins
+- Containers: Docker, Helm
 
 Databases
-- SQL, NoSQL Databases
+
+- PostgreSQL, Redis
+- SQL & NoSQL
 - Content Management Systems
 
+Event-Driven & IoT
+
+- Event-Driven Systems, Streams, Queues (SQS)
+- IoT Systems, MQTT, Smart-Home Integrations
+
 Web Platforms
+
 - Shopify
 - Wordpress
