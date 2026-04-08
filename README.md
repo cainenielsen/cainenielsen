@@ -1,11 +1,11 @@
 # Hi there, I'm Caine Nielsen 👋
 
-<img src="https://cainenielsen.com/images/caine.jpg" width="300px" align="center" >
-
 I am a fun and hard working software engineer with lots of passion. I love to code and build things that delight people. I have a
 drive to improve developer productivity, a patience for writing clean, reusable code, and lots of experience with web technologies. I
 work great with others and love to collaborate and pair-program. I am always learning and moving forward and just need a chance
 to make the next big jump.
+
+<img src="https://cainenielsen.com/images/caine.jpg" width="300px" align="center" >
 
 ## Skills & Experience
 
